@@ -5,7 +5,7 @@ reddit = praw.Reddit(client_id="XZ6OzCHkiCabJA",
                      client_secret="m47gGnWcsCiVABSp9clCZaBawW6-Ng",
                      user_agent="<console_Programmers>",
                      username="PrabhuCS_Programmer",
-                     password="Pr8009747730"
+                     password="************"
                      )
 
 
